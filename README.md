@@ -6,4 +6,4 @@ Please keep in mind that this is just a boilerplate.
 
 ## Documentation
 
-[API Documentation](https://www.misterbabel.com/api/documentation/v1/)
+Documentation link : [API Documentation](https://www.misterbabel.com/api/documentation/v1/)
